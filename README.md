@@ -3,7 +3,7 @@
 
 Final project for the Building AI course
 
-## Summary
+## This project will try to predict the most suitable cure for individuals with mental disorders. As we know, treatment effectiveness may differ between patients, many times resulting in feelings of anxiety, exhaustion and depression. Unfortunately, this is a problem that these people should frequently handle with it. What if AI methods could interfere here making life of these individuals easier? Having people in my close environment who struggle with some kind of mental illness, I took the initiative for an idea that could provide them relief, bypassing the lengthy process of changing treatments until finding the most effective one.
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
