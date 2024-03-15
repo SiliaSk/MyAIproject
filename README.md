@@ -1,5 +1,5 @@
 
-# Predicting the suitable cure for individuals with mental disorders with AI 
+# Predicting the most suitable cure for individuals with mental disorders with AI 
 
 Final project for the Building AI course
 
