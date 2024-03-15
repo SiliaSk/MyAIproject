@@ -3,7 +3,7 @@
 
 Final project for the Building AI course
 
-## This project will try to predict the most suitable cure for individuals with mental disorders. As we know, treatment effectiveness may differ between patients, many times resulting in feelings of anxiety, exhaustion and depression. Finding an AI method that will forcast (forsee) the most impactful cure could save time and pressure for them.
+## A lot of people face difficulties with finding the appropriate medicine right away. As we know, treatment effectiveness may differ between patients, many times resulting in feelings of anxiety, exhaustion and depression. What if AI could uncover a solution to save both time and troubles?
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
 
