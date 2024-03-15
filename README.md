@@ -7,14 +7,10 @@ Final project for the Building AI course
  
 
 
-## Unfortunately, this is a problem that these people should frequently handle with it. What if AI methods could interfere here making life of these individuals easier? Having people in my close environment who struggle with some kind of mental illness, I took the initiative for an idea that could provide them relief, bypassing the lengthy process of changing treatments until finding the most effective one.
+## The main problem this idea solves is the emotional weariness which individuals must undergo in order to reach the desired result. Moreover, they can simultaneously conserve both time and money. Unfortunately, this is a problem that these people should frequently handle with it. What if AI methods could interfere here making life of these individuals easier? Having people in my close environment who struggle with some kind of mental illness, I took the initiative for an idea that could provide them relief, bypassing the lengthy process of changing treatments until finding the most effective one.
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
 
 
 ## How is it used?
