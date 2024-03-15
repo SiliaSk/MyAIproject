@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 
 ## The main problem this idea solves is the emotional weariness which individuals must undergo in order to reach the desired result. Moreover, they can simultaneously conserve both time and money. Unfortunately, this is a problem that these people should frequently handle with it. Having people in my close environment who struggle with some kind of mental illness, I took the initiative for an idea that could provide them relief, bypassing the lengthy process of changing treatments until finding the most effective one. The combination of AI with mental health is one of the weakest areas. Until today, humanity has not yet found answers to many questions in this field. Consequently, due to insufficient data, AI intervention appears challenging. 
-.
+
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 
