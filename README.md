@@ -1,13 +1,13 @@
 
 # Predicting the most suitable cure for individuals with mental disorders with AI 
 
-Final project for the Building AI course
+Final project for the Building AI course 
 
 ## A lot of people face difficulties with finding the appropriate medicine right away. As we know, treatment effectiveness may differ between patients, many times resulting in feelings of anxiety, exhaustion and depression. What if AI could uncover a solution to save both time and troubles?
  
 
 
-## The main problem this idea solves is the emotional weariness which individuals must undergo in order to reach the desired result. Moreover, they can simultaneously conserve both time and money. Unfortunately, this is a problem that these people should frequently handle with it. Having people in my close environment who struggle with some kind of mental illness, I took the initiative for an idea that could provide them relief, bypassing the lengthy process of changing treatments until finding the most effective one. The combination of AI with mental health is one of the weakest areas. Until today, humanity has not yet found answers to many questions in this field. Consequently, due to insufficient data, AI intervention appears challenging. However, with small steps and by approaching more relatively simple problems like this, significant change could be achieved. With the increasing number of people diagnosed with mental disorders in recent years, the integration of AI appears intriguing. 
+## The main problem this idea solves is the emotional weariness which individuals must undergo in order to reach the desired result. Moreover, they can simultaneously conserve both time and money. Unfortunately, this is a very real problem that people frequently deal with. Having people close to me who struggle with some kind of mental illness, I took the initiative for an idea that could provide them relief, bypassing the lengthy process of changing treatments until finding the most effective one. Applying artificial intelligence to mental health can be very convoluted, due to high amount of uncertainty and the lack of wide sample size. Until now, humanity has not yet found answers to many questions in this field. Consequently, due to insufficient data, AI intervention appears challenging. However, with small steps and by approaching more relatively simple problems like this, significant change could be achieved. With the increasing number of people diagnosed with mental disorders in recent years, the integration of AI appears intriguing. 
 
 
 
