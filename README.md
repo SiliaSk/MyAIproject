@@ -11,7 +11,9 @@ Final project for the Building AI course
 
 
 
-## How is it used?
+## How is it used? 
+The whole idea is to create a platform which depending on the individual's characteristics (genetic/ behavioral/ metabolic) and specific symptoms it could predict the most suitable medication from a selection list.
+
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
