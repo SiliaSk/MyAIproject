@@ -18,8 +18,9 @@ The whole idea is to create a platform which depending on the individual's chara
 - Improvement of medicines: Βy having a large database available from groups of people with side effects, doctors would be able to more easily identify the weaknesses of each medicine leading to its improvement
 - Biomarker Identification: By leveraging real-world and large patient data, advanced analytics, and collaborative networks, the platform can accelerate the discovery of biomarkers that improve treatment outcomes and advance precision psychiatry initiatives (Biomarkers: Is a measurable indicator of some biological state or condition. Biomarkers are often measured and evaluated using blood, urine, or soft tissues to examine normal biological processes, pathogenic processes, or pharmacologic responses to a therapeutic intervention)    
 
+The users will be mainly psychiatrists as well as pharmaceutical industries. Acknowledging the ethical dimensions of the platform's utilization is important.
+Ethical considerations regarding patient privacy, consent, and responsible data use are paramount, particularly in the context of AI applications in healthcare. 
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -67,6 +68,9 @@ How could your project grow and become something even more? What kind of skills,
 
 
 ## Acknowledgments
+SOURCES OF INSPIRATION:
+*
+
 
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
