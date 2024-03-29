@@ -18,7 +18,7 @@ The whole idea is to create a platform which depending on the individual's chara
 - Improvement of medicines: Βy having a large database available from groups of people with side effects, pharmaceutical industries would be able to more easily identify the weaknesses of each medicine leading to its improvement
 - Biomarker Identification: By leveraging real-world and large patient data, advanced analytics, and collaborative networks, the platform can accelerate the discovery of biomarkers that improve treatment outcomes and advance precision psychiatry initiatives (Biomarkers: Is a measurable indicator of some biological state or condition. Biomarkers are often measured and evaluated using blood, urine, or soft tissues to examine normal biological processes, pathogenic processes, or pharmacologic responses to a therapeutic intervention)    
 
-The users will be mainly psychiatrists as well as pharmaceutical industries. Acknowledging the ethical dimensions of the platform's utilization is important.
+The users will be mainly psychiatrists as well as pharmaceutical industries. Acknowledging the ethical dimensions of the platform's utilization is really important.
 Ethical considerations regarding patient privacy, consent, and responsible data use are paramount, particularly in the context of AI applications in healthcare. 
 
 
