@@ -15,7 +15,7 @@ Final project for the Building AI course
 The whole idea is to create a platform which depending on the individual's characteristics (genetic/ behavioral/ metabolic) and specific symptoms it could predict the most suitable medication from a selection list. Below there are some of the situations which this platform needed:
 - Clinical Settings: Hospitals, clinics, and healthcare facilities, where there is an urgent need for guidance in the choice of treatment
 - Diversity: Provide safe and effective medication for diverse people who face curtain ailments(diabetes, autoimmune and other chronic diseases)
-- Improvement of medicines: Βy having a large database available from groups of people with side effects, doctors would be able to more easily identify the weaknesses of each medicine leading to its improvement
+- Improvement of medicines: Βy having a large database available from groups of people with side effects, pharmaceutical industries would be able to more easily identify the weaknesses of each medicine leading to its improvement
 - Biomarker Identification: By leveraging real-world and large patient data, advanced analytics, and collaborative networks, the platform can accelerate the discovery of biomarkers that improve treatment outcomes and advance precision psychiatry initiatives (Biomarkers: Is a measurable indicator of some biological state or condition. Biomarkers are often measured and evaluated using blood, urine, or soft tissues to examine normal biological processes, pathogenic processes, or pharmacologic responses to a therapeutic intervention)    
 
 The users will be mainly psychiatrists as well as pharmaceutical industries. Acknowledging the ethical dimensions of the platform's utilization is important.
