@@ -14,8 +14,9 @@ Final project for the Building AI course
 ## How is it used? 
 The whole idea is to create a platform which depending on the individual's characteristics (genetic/ behavioral/ metabolic) and specific symptoms it could predict the most suitable medication from a selection list. Below there are some of the situations which this platform needed:
 - Clinical Settings: Hospitals, clinics, and healthcare facilities, where there is an urgent need for guidance in the choice of treatment
-- Diversity: Help diverse people who face curtain ailments(diabetes, autoimmune and other chronic diseases)
-- Improvement of medicines: 
+- Diversity: Provide safe and effective medication for diverse people who face curtain ailments(diabetes, autoimmune and other chronic diseases)
+- Improvement of medicines: Βy having a large database available from groups of people with side effects, doctors would be able to more easily identify the weaknesses of each medicine leading to its improvement
+- 
 
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
