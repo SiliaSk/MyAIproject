@@ -26,11 +26,7 @@ Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 
 
-'![Genetic factor](C:\Users\ellie\Desktop\IMG_3755.JPG)' 
-
-
-
-
+![Genetic Factor]("C:\Users\ellie\Desktop\IMG_3755.JPG")
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
