@@ -22,10 +22,6 @@ The users will be mainly psychiatrists as well as pharmaceutical industries. Ack
 Ethical considerations regarding patient privacy, consent, and responsible data use are paramount, particularly in the context of AI applications in healthcare. 
 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-
-
 ![Genetic Factor]("C:\Users\ellie\Desktop\IMG_3755.JPG")
 
 ## Data sources and AI methods
