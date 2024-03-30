@@ -26,7 +26,7 @@ Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 
 
-C:\Users\ellie\Desktop\IMG_3755.JPG
+![Genetic factor](C:\Users\ellie\Desktop\IMG_3755.JPG) 
 
 
 If you need to resize images, you have to use an HTML tag, like this:
