@@ -31,6 +31,8 @@ Image_1: Genetic Factor, the DNA chain
 Image_2: Structural Functions of Human Brain
 <img src="https://i.pinimg.com/564x/91/5a/5b/915a5bb5309edb2854159285084c2ba2.jpg" width="300"> 
 
+-Human Brain structure can provide valuable insights into individual differences in treatment response. Factors such as neural connectivity, neurochemistry, and structural abnormalities can influence how individuals respond to various interventions, including medication, therapy, and lifestyle changes
+
 
 
 
