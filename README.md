@@ -25,6 +25,8 @@ Ethical considerations regarding patient privacy, consent, and responsible data 
 
 ![Genetic Factor]("C:\Users\ellie\Desktop\IMG_3755.JPG")
 
+![Cells]("C:\Users\ellie\Desktop\IMG_3756.JPG")
+
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
