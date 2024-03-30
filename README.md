@@ -26,6 +26,9 @@ Ethical considerations regarding patient privacy, consent, and responsible data 
 Image_1: Genetic Factor, the DNA chain 
 ![Genetic Factor](https://i.pinimg.com/564x/fc/13/b2/fc13b25cf7f7f4b3f77c73fc8faa096a.jpg)
 
+<img src="https://i.pinimg.com/564x/fc/13/b2/fc13b25cf7f7f4b3f77c73fc8faa096a.jpg" width="300">
+
+
 
 
 ## Data sources and AI methods
