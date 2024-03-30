@@ -24,7 +24,7 @@ Ethical considerations regarding patient privacy, consent, and responsible data 
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+
 
 C:\Users\ellie\Desktop\IMG_3755.JPG
 
