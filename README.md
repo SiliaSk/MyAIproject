@@ -23,7 +23,7 @@ The users will be mainly psychiatrists as well as pharmaceutical industries. Ack
 Ethical considerations regarding patient privacy, consent, and responsible data use are paramount, particularly in the context of AI applications in healthcare. 
 
 
-![Genetic Factor](https://pin.it/3CL0zaktQ) 
+![Genetic Factor]("C:\Users\ellie\Desktop\IMG_3755.JPG")
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
