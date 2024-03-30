@@ -25,6 +25,7 @@ Ethical considerations regarding patient privacy, consent, and responsible data 
 
 Image_1: Genetic Factor, the DNA chain
 <img src="https://i.pinimg.com/564x/fc/13/b2/fc13b25cf7f7f4b3f77c73fc8faa096a.jpg" width="300">
+*Genetic factors play a pivotal role in mental health, influencing treatment response, and prognosis. Understanding genetic predispositions enhances precision and efficacy in treatment recommendations
 
 Image_2: Structural Functions of Human Brain
 <img src="https://i.pinimg.com/564x/91/5a/5b/915a5bb5309edb2854159285084c2ba2.jpg" width="300"> 
