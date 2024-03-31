@@ -37,16 +37,14 @@ Image_2: Structural Functions of Human Brain
 
 
 ## Data sources and AI methods
-It's really important to have a large and diverse sample size. Therefore, it would be more convenient to use two different methods for data collection to gather the desired results. The first approach involves collecting data from hospitals, clinics, and research institutions. However, this particular method brings some challenges, such as obtaining consent from patients and ensuring data protection for individuals.
+It's really important to have a large and diverse sample size. Therefore, it would be more convenient to use two different methods for data collection to gather the desired results. The first approach involves collecting data from hospitals, clinics, and research institutions. However, this particular method brings some challenges, such as obtaining consent from patients and ensuring data protection for individuals. Additionally, data collected from clinics and hospitals may be subject to selection bias, as certain patient populations may be overrepresented or underrepresented. This can affect the generalizability of research findings to broader populations.
+
+
+
 
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
 
 ## Challenges
 
