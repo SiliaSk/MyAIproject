@@ -29,7 +29,9 @@ Image_1: Genetic Factor, the DNA chain
 - Genetic factors play a pivotal role in mental health, influencing treatment response and prognosis. Understanding genetic predispositions enhances precision and efficacy in treatment recommendations
 
 Image_2: Structural Functions of Human Brain
-<img src="https://i.pinimg.com/564x/91/5a/5b/915a5bb5309edb2854159285084c2ba2.jpg" width="250"> 
+<img src="https://i.pinimg.com/564x/91/5a/5b/915a5bb5309edb2854159285084c2ba2.jpg" width="250">     <img src="<img src="https://i.pinimg.com/564x/ab/7c/e1/ab7ce1866b3cf3dc3e7b4fe17921aa5a.jpg" width="250"> 
+" width="250"> 
+
 
 - Human Brain structure can provide valuable insights into individual differences in treatment response. Factors such as neural connectivity, neurochemistry, and structural abnormalities can influence how individuals respond to various interventions, including medication, therapy, and lifestyle changes
 
