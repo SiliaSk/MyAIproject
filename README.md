@@ -41,7 +41,10 @@ It's really important to have a large and diverse sample size. Therefore, using 
 
 AI Methods:
 1. Decision Trees: Decision trees are one of the most common methods used in medicine, including for predicting treatment outcomes and diagnosing various conditions. They offer several advantages that make them suitable for these kinds of problems. (Efficient predictions for small to medium-sized datasets)
-2. 
+   
+2. Neural Networks: Neural networks can efficiently learn complex patterns from large datasets, offering high flexibility and adaptability, making them suitable for predicting treatment outcomes in mental health with diverse and intricate patient data. (Efficient for large-sized datasets)
+
+3. 
 
 
 
