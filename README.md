@@ -29,7 +29,7 @@ Image_1: Genetic Factor, the DNA chain
 - Genetic factors play a pivotal role in mental health, influencing treatment response and prognosis. Understanding genetic predispositions enhances precision and efficacy in treatment recommendations
 
 Image_2: Structural Functions of Human Brain
-<img src="https://i.pinimg.com/564x/91/5a/5b/915a5bb5309edb2854159285084c2ba2.jpg" width="300"> 
+<img src="https://i.pinimg.com/564x/91/5a/5b/915a5bb5309edb2854159285084c2ba2.jpg" width="250"> 
 
 - Human Brain structure can provide valuable insights into individual differences in treatment response. Factors such as neural connectivity, neurochemistry, and structural abnormalities can influence how individuals respond to various interventions, including medication, therapy, and lifestyle changes
 
@@ -41,6 +41,7 @@ It's really important to have a large and diverse sample size. Therefore, using 
 
 AI Methods:
 1. Decision Trees: Decision trees are one of the most common methods used in medicine, including for predicting treatment outcomes and diagnosing various conditions. They offer several advantages that make them suitable for these kinds of problems. (Efficient predictions for small to medium-sized datasets)
+   
 Image_3: Decision Trees
 <img src="https://i.pinimg.com/564x/0c/e7/c5/0ce7c57e5ef6cff84f891281ca2c1cd8.jpg" width="300">
    
