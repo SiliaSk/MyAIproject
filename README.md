@@ -40,6 +40,8 @@ Image_2: Structural Functions of Human Brain
 It's really important to have a large and diverse sample size. Therefore, using two different methods for data collection to achieve the desired results would be more convenient. The first approach involves gathering data from hospitals, clinics, and research institutions. However, this method presents some challenges, such as obtaining consent from patients and ensuring data protection for individuals. Additionally, data collected from clinics and hospitals may be subject to selection bias, as certain patient populations may be overrepresented or underrepresented. This can impact the generalizability of research findings to broader populations. Hence, employing an additional method, such as self-selected sampling via questionnaires, could enhance the efficiency of data collection. In the second method, to ensure equality between samples and incorporate genetic factors into the study, researchers could collect blood samples at a laboratory. Regardless of the method used, full consent and privacy protection of the participants are crucial in both processes. 
 
 AI Methods:
+1. Decision Trees: Decision trees are one of the most common methods used in medicine, including for predicting treatment outcomes and diagnosing various conditions. They offer several advantages that make them suitable for these kinds of problems. (Efficient predictions for small to medium-sized datasets)
+2. 
 
 
 
