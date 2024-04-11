@@ -47,10 +47,11 @@ AI Methods:
 <img src="https://i.pinimg.com/564x/ab/7c/e1/ab7ce1866b3cf3dc3e7b4fe17921aa5a.jpg" width="350"> 
  
 
+- Neural Networks: Neural networks can efficiently learn complex patterns from large datasets, offering high flexibility and adaptability, making them suitable for predicting treatment outcomes in mental health with diverse and intricate patient data. (Efficient for large-sized datasets)
 
-3. Neural Networks: Neural networks can efficiently learn complex patterns from large datasets, offering high flexibility and adaptability, making them suitable for predicting treatment outcomes in mental health with diverse and intricate patient data. (Efficient for large-sized datasets)
+<img src="https://i.pinimg.com/564x/e4/7d/e9/e47de92562d90a7c1229e6419dc3e10f.jpg" width="300"> 
+ 
 
-4. 
 
 
 
