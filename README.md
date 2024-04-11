@@ -23,7 +23,7 @@ The users will be mainly psychiatrists as well as pharmaceutical industries. Ack
 Ethical considerations regarding patient privacy, consent, and responsible data use are paramount, particularly in the context of AI applications in healthcare. 
 
 
-Image_1: Genetic Factor, the DNA chain
+Image_1: DNA (Genetic Factors)
 <img src="https://i.pinimg.com/564x/fc/13/b2/fc13b25cf7f7f4b3f77c73fc8faa096a.jpg" width="300">
 
 - Genetic factors play a pivotal role in mental health, influencing treatment response and prognosis. Understanding genetic predispositions enhances precision and efficacy in treatment recommendations
