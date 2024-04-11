@@ -43,7 +43,7 @@ It's really important to have a large and diverse sample size. Therefore, using 
 AI Methods:
 - Decision Trees: Decision trees are one of the most common methods used in medicine, including for predicting treatment outcomes and diagnosing various conditions. They offer several advantages that make them suitable for these kinds of problems. (Efficient predictions for small to medium-sized datasets)
    
-Image_3: Decision Trees   
+ 
 <img src="https://i.pinimg.com/564x/ab/7c/e1/ab7ce1866b3cf3dc3e7b4fe17921aa5a.jpg" width="350"> 
  
 
