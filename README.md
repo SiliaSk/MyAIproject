@@ -52,7 +52,8 @@ AI Methods:
 <img src="https://i.pinimg.com/564x/e4/7d/e9/e47de92562d90a7c1229e6419dc3e10f.jpg" width="300"> 
 
 
-- Natural Language Processing (NLP) techniques: NLP techniques play a crucial role in extracting valuable insights from unstructured text data, such as clinical notes, medical literature, and research articles. These insights provide valuable information about patients' conditions, symptoms, treatment histories, and responses to different interventions.
+- Natural Language Processing (NLP) techniques: NLP techniques play a crucial role in extracting valuable insights from unstructured text data, such as clinical notes, medical literature, and research articles. These insights provide valuable information about patients' conditions, symptoms, treatment histories, and responses to different interventions. (Efficient for large-sized datasets)
+
 
 
 
