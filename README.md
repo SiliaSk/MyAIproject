@@ -62,7 +62,11 @@ AI Methods:
 
 Every innovative AI venture brings inherent challenges that require addressing.
 
-- The factors that contribute to the effectiveness of a pharmaceutical product are numerous.   
+- The factors that contribute to the effectiveness of a pharmaceutical product are numerous and complex. Therefore, data collection will take time and attention to detail to be an accurate forecast.
+- Working with large and complex datasets may increase the risk of overfitting.
+- Accessing data could be difficult, especially when considering genetic and other biological factors. This is why there is a suggestion of using two different methods of collecting data.
+  
+
 
 
 
