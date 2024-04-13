@@ -60,7 +60,11 @@ AI Methods:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Every innovative AI venture brings inherent challenges that require addressing.
+
+- The factors that contribute to the effectiveness of a pharmaceutical product are numerous.   
+
+
 
 ## What next?
 
