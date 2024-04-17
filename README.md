@@ -74,7 +74,10 @@ In addition to the limitations of the datasets, it is crucial to consider ethica
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The project could further develop and expand with suitable collaborations, including biologists, doctors, and psychiatrists. Essential skills include proficiency in data analysis, machine learning, programming, and predictive modeling, enabling the development of accurate algorithms. Additionally, access to a laboratory for collecting genetic data from selected patients would be invaluable for enhancing the platform's capabilities. Therefore, with these resources in place, the idea could progress and evolve into something even more impactful.   
+
+The above are extra requirements for the implementation of this project. basic management skills as well as communication skills are an important part of every project.
+
 
 
 ## Acknowledgments
