@@ -83,4 +83,5 @@ The above are extra requirements for the implementation of this project. Basic m
 ## Acknowledgments
 
 * Growing Prevalence of MDD: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8134814/
+* Artificial Intelligence for Mental Health and Mental Illnesses: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7274446/
 
