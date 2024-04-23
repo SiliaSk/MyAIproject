@@ -3,7 +3,8 @@
 
 Final project for the Building AI course 
 
-## A lot of people face difficulties with finding the appropriate medicine right away. As we know, treatment effectiveness may differ between patients, many times resulting in feelings of anxiety, exhaustion and depression. What if AI could uncover a solution to save both time and troubles?
+## Summary
+A lot of people face difficulties with finding the appropriate medicine right away. As we know, treatment effectiveness may differ between patients, many times resulting in feelings of anxiety, exhaustion and depression. What if AI could uncover a solution to save both time and troubles?
  
 
 
